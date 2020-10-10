@@ -21,7 +21,8 @@
         <!-- Sidebar content here -->
         <div class="c-sidebar c-sidebar-dark c-sidebar-show">
             <ul class="c-sidebar-nav">
-                <li class="c-sidebar-nav-title">Wnkl</li>
+                <h3 class="c-sidebar-nav-title">Wnkl</h3>
+                <hr>
                 <li class="c-sidebar-nav-item">
                     <a class="c-sidebar-nav-link" href="#">
                     <i class="fas fa-chart-pie"></i> Nav item
@@ -69,14 +70,23 @@
         <header class="c-header">
             <!-- Header content here -->
             <h2>DASHBOARD</h2>
-            <img src="settings.gif" alt="">
-            <i class="fas fa-bell"></i>
-            <i class="far fa-user"></i>
+            <div class="icons">
+            <img class="settings" src="settings.gif" alt="">
+            <i class="fas fa-bell fa-lg"></i>
+            <i class="far fa-user fa-lg"></i>
+            </div>
         </header>
         <div class="c-body">
             <main class="c-main">
                 <!-- Main content here -->
-                <iframe src="http://free.timeanddate.com/clock/i7hwe9oy/n176/fn7/fs20/tct/pct/ftb/th2" frameborder="0" width="128"
+                <div class="topright">
+                
+                    <button type="button" name="button" class="btn btn-outline-secondary mix2 btn-sm">Export</button>
+                    <button type="button" name="button" class="btn btn-outline-secondary btn-sm"><i
+                            class="fas fa-calendar-check fa-lg"></i> This Week</button>
+                
+                </div>
+                <iframe src="http://free.timeanddate.com/clock/i7hwe9oy/n176/fn7/fs20/tct/pct/ftb/th2" class="clock" frameborder="0" width="128"
                     height="30" allowTransparency="true"></iframe>
 
             </main>
