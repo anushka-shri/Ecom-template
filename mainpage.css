@@ -3,4 +3,22 @@
     height:8vh;
     background: black !important;
     color:white !important;
+    position: absolute;
+}
+
+
+.logo{
+    margin-top: 15vh;
+    height:20vh;
+    width:auto;
+  margin-left:42vw;
+  margin-right:30vw;
+
+  
+}
+
+.form-inline{
+    margin-top: 7vh;
+   margin-left: 42vw;
+    margin-right:30vw;
 }
