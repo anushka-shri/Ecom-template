@@ -27,8 +27,7 @@
 .card-image {
     display: block;
     height:20vh;
-    width:20vw;
-    /* min-height: 20rem; layout hack */
+   
 	background: #fff center center no-repeat;
 	background-size: cover;
 	filter: blur(3px); /* blur the lowres image */
