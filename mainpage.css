@@ -24,8 +24,8 @@
 }
 
 .heading{
-	margin-left: 35vw;
-	padding: 5%;
+	margin-left: 33vw;
+	padding: 3%;
 }
 
 /* Cards */
@@ -115,4 +115,13 @@ html, body {
 
 .btn{
 	margin-left: 14vw;
+}
+
+.View{
+
+	margin-top:10vh;
+	margin-left: 35vw;
+	font-size: 1.5rem;
+	background: rgba(219, 171, 11, 0.671);
+	
 }
