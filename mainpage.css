@@ -23,6 +23,11 @@
     margin-right:30vw;
 }
 
+.heading{
+	margin-left: 35vw;
+	padding: 5%;
+}
+
 /* Cards */
 /* Lazy Load Styles */
 .card-image {
@@ -95,3 +100,10 @@ html, body {
 }
 
 /* Cards */
+
+/* Categories */
+
+.categories{
+	background: white;
+	margin: 5%;
+}
