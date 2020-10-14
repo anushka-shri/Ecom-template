@@ -104,7 +104,7 @@ html, body {
 /* Categories */
 
 .container{
-	background: rgba(255, 235, 205, 0.568) !important;
+	background: rgba(243, 223, 229, 0.568) !important;
 }
 
 .row{
@@ -123,7 +123,7 @@ html, body {
 	padding: 20px 20px;
 }
 
-.btn{
+.Add{
 	margin-left: 14vw;
 }
 
