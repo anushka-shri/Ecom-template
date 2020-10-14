@@ -107,3 +107,12 @@ html, body {
 	background: white;
 	margin: 5%;
 }
+
+.heading2{
+	color:black;
+	padding: 20px 20px;
+}
+
+.btn{
+	margin-left: 14vw;
+}
