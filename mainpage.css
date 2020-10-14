@@ -117,10 +117,17 @@ html, body {
 }
 
 .heading2{
-	margin-left: 28vw;
+	margin-left: 30vw;
 	color:black;
 	font-size: 2rem;
 	padding: 20px 20px;
+}
+
+.heading3{
+	margin-left: 24vw;
+	color:black;
+	font-size: 2rem;
+	padding: 25px 25px;
 }
 
 .Add{
