@@ -156,3 +156,21 @@ html, body {
 	background: rgba(219, 171, 11, 0.671);
 	
 }
+
+/*// Categories */
+
+/* Footer */
+
+.footer{
+	margin-top:10vh;
+	padding:0;
+	background: black;
+	color:white;
+	width:100vw;
+	height:20vh;
+}
+
+.list{
+	text-decoration: none;
+	
+}
