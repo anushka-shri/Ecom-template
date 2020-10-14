@@ -107,6 +107,10 @@ html, body {
 	background: rgba(243, 223, 229, 0.568) !important;
 }
 
+.two{
+	background: rgba(208, 237, 250, 0.568) !important;
+}
+
 .row{
 	margin-top: 40px;
 	margin-left:8vw;
