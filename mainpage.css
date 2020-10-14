@@ -103,13 +103,23 @@ html, body {
 
 /* Categories */
 
+.container{
+	background: rgba(255, 235, 205, 0.568) !important;
+}
+
+.row{
+	margin-top: 40px;
+	margin-left:8vw;
+}
 .categories{
 	background: white;
 	margin: 5%;
 }
 
 .heading2{
+	margin-left: 28vw;
 	color:black;
+	font-size: 2rem;
 	padding: 20px 20px;
 }
 
@@ -121,6 +131,7 @@ html, body {
 
 	margin-top:10vh;
 	margin-left: 35vw;
+	margin-bottom: 5vh;
 	font-size: 1.5rem;
 	background: rgba(219, 171, 11, 0.671);
 	
