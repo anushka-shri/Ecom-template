@@ -18,9 +18,18 @@
 }
 
 .form-inline{
-    margin-top: 7vh;
+    margin-top: 10vh;
    margin-left: 42vw;
-    margin-right:30vw;
+	margin-right:30vw;
+	
+}
+
+.form-control{
+font-size: 1.3rem;
+}
+
+.btn-outline-success{
+	font-size: 1.3rem;
 }
 
 .heading{
