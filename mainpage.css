@@ -157,6 +157,16 @@ html, body {
 	font-size: 1.2rem;
 }
 
+.item2{
+	margin-left: 10vw;
+	margin-top:40px;
+}
+.menu-item2{
+	
+	font-size: 1.2rem;
+	margin-left: 0;
+}
+
 .Add{
 	margin-left: 18vw;
 	font-size: 1.2rem;
@@ -186,7 +196,6 @@ html, body {
 
 .footer{
 	width:47.5vw;
-	margin-top:15vh;
 	padding:0;
 	background: black;
 	color:white;
