@@ -35,8 +35,10 @@ font-size: 1.3rem;
 }
 
 .heading{
-	margin-left: 33vw;
+	/* margin-left: 10vw; */
+	text-align: center;
 	padding: 3%;
+  background-image: linear-gradient(to bottom right, rgb(146, 198, 228), rgb(240, 162, 162));
 }
 
 /* Cards */
