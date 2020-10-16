@@ -1,5 +1,5 @@
 .navbar{
-    width:100vw;
+    width:47.5vw;
     height:8vh;
     background: black !important;
     color:white !important;
@@ -11,16 +11,16 @@
     margin-top: 15vh;
     height:20vh;
     width:auto;
-  margin-left:40vw;
-  margin-right:30vw;
+   margin-left:15vw;
+  
 
   
 }
 
 .form-inline{
     margin-top: 10vh;
-   margin-left: 36vw;
-	margin-right:30vw;
+   margin-left: 15vw;
+
 	
 }
 
@@ -31,7 +31,7 @@ font-size: 1.3rem;
 
 .btn-outline-success{
 	font-size: 1.3rem;
-	margin-left:2vw;
+	
 }
 
 .heading{
