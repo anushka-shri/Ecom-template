@@ -117,6 +117,7 @@ html, body {
 /* Categories */
 
 .container{
+	margin-bottom:10vh;
 	background: rgba(243, 223, 229, 0.568) !important;
 }
 
@@ -149,10 +150,20 @@ html, body {
 
 .item{
 	text-align: center;
+	margin-top:40px;
+}
+
+.menu-item{
+	font-size: 1.2rem;
 }
 
 .Add{
-	margin-left: 14vw;
+	margin-left: 18vw;
+	font-size: 1.2rem;
+}
+
+.price{
+	font-size: 1.1rem;
 }
 
 .btn:hover{
@@ -162,7 +173,7 @@ html, body {
 .View{
 
 	margin-top:10vh;
-	margin-left: 35vw;
+	margin-left: 18vw;
 	margin-bottom: 5vh;
 	font-size: 1.5rem;
 	background: rgba(219, 171, 11, 0.671);
@@ -174,18 +185,19 @@ html, body {
 /* Footer */
 
 .footer{
+	width:47.5vw;
 	margin-top:15vh;
 	padding:0;
 	background: black;
 	color:white;
-	width:100vw;
+	
 	height:28vh;
 }
 
 .list{
 	margin-top:2vh;
 	font-size: 1.5rem;
-	margin-left: 40vw;
+	margin-left: 16vw;
 }
 
 .list:hover{
