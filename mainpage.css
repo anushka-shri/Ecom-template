@@ -124,27 +124,31 @@ html, body {
 	background: rgba(208, 237, 250, 0.568) !important;
 }
 
-.row{
+/* .row{
 	margin-top: 40px;
 	margin-left:8vw;
-}
+} */
 .categories{
 	background: white;
 	margin: 5%;
 }
 
 .heading2{
-	margin-left: 30vw;
+	text-align: center;
 	color:black;
 	font-size: 2rem;
 	padding: 20px 20px;
 }
 
 .heading3{
-	margin-left: 24vw;
+	text-align: center;
 	color:black;
 	font-size: 2rem;
 	padding: 25px 25px;
+}
+
+.item{
+	text-align: center;
 }
 
 .Add{
