@@ -192,6 +192,39 @@ html, body {
 
 /*// Categories */
 
+/* cart */
+
+.icons{
+	display: flex;
+}
+
+.cart{
+	height:12vh;
+	width:48vw;
+	margin-bottom: 5vh;
+	background-color: rgb(219, 161, 0);
+}
+
+.fa-shopping-bag
+{
+	color:rgb(236, 222, 222);
+	margin-left: 2vw;
+	margin-top: 2vh;
+}
+
+.view-cart{
+text-decoration: none;
+margin-left: 30vw;
+margin-top: 2vh;
+color: aliceblue;
+border: 2px solid aliceblue;
+padding: 1%;
+font-size: 1.7rem;
+}
+
+
+/* cart */
+
 /* Footer */
 
 .footer{
