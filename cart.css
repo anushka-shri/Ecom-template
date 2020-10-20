@@ -82,10 +82,19 @@ a:hover{
     margin-top:1vh;
     background: rgb(133, 178, 189) !important;
     padding:1%;
-    color:rgb(2, 66, 75);
+    color:rgb(2, 42, 48)!important;
     border-radius: 10px;  
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     
+}
+
+.four{
+     margin-top:1vh;
+    background: rgb(133, 178, 189) !important;
+    padding:1%;
+    color:rgb(0, 0, 0)!important;
+    border-radius: 10px;  
+    font-size: 1.3rem;
 }
 
 .fa-chevron-right{
@@ -143,5 +152,43 @@ a:hover{
 	transform: scale(1.05);
 }
 
+.table{
+    margin-left: 8vw;
+     color:rgb(0, 0, 0)!important;
+}
+
+.View{
+
+	margin-top:8vh;
+	margin-left: 18vw;
+	margin-bottom: 5vh;
+    font-size: 1.5rem;
+    font-weight: 700;
+	background: rgba(219, 170, 11, 0.89);
+	
+}
 
 /*// Categories */
+
+
+/* Footer */
+
+.footer{
+	width:46.5vw;
+	background: black;
+	color:white;
+	
+	height:28vh;
+}
+
+.list{
+	margin-top:2vh;
+	font-size: 1.5rem;
+	margin-left: 16vw;
+}
+
+.list:hover{
+	 text-shadow: 2px 2px 1px rgb(255, 208, 0);
+	 transform: scale(1.01);
+}
+/* Footer */
