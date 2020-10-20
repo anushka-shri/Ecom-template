@@ -52,3 +52,68 @@ a:hover{
     padding:3%;
     color:rgb(255, 255, 255);
 }
+
+
+/* Categories */
+
+.two{
+
+	margin-top:1vh;
+    background: rgb(87, 146, 161) !important;
+    text-align: center;
+    padding:1%;
+    color:rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+
+/* .row{
+	margin-top: 40px;
+	margin-left:8vw;
+} */
+
+#myNumber{
+    background: rgba(71, 76, 85, 0.822);
+    color:white;
+    text-align: center;
+    width:60px;
+    height: 40px;
+    border-radius: 20%;
+    margin-left: 18vw;
+	font-size: 1.2rem;
+}
+
+.item{
+	text-align: center;
+	margin-top:40px;
+}
+
+.menu-item{
+	font-size: 1.5rem;
+}
+
+.item2{
+	margin-left: 10vw;
+	margin-top:40px;
+}
+.menu-item2{
+	
+	font-size: 1.2rem;
+	margin-left: 0;
+}
+
+.Add{
+	margin-left: 18vw;
+	font-size: 1.2rem;
+}
+
+.price{
+	font-size: 1.1rem;
+}
+
+.btn:hover{
+	transform: scale(1.05);
+}
+
+
+/*// Categories */
