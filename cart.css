@@ -48,6 +48,14 @@ a:hover{
 .container{
 	margin-top:12vh;
     background: rgb(231, 184, 27) !important;
+    
+    padding:3%;
+    color:rgb(255, 255, 255);
+}
+
+.one{
+    	margin-top:12vh;
+    background: rgb(231, 184, 27) !important;
     text-align: center;
     padding:3%;
     color:rgb(255, 255, 255);
@@ -66,7 +74,24 @@ a:hover{
     border-radius: 10px;
 }
 
+.three{
 
+    margin-top:1vh;
+    background: rgb(133, 178, 189) !important;
+    padding:1%;
+    color:rgb(2, 66, 75);
+    border-radius: 10px;  
+    font-size: 1.2rem;
+    
+}
+
+.fa-chevron-right{
+    margin-left: 32vw;
+}
+
+.fa-percent{
+    margin-left: 1vw;;
+}
 /* .row{
 	margin-top: 40px;
 	margin-left:8vw;
