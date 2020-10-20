@@ -1,4 +1,7 @@
 
+.col-md-6{
+    background: white !important;
+}
 /* Navbar */
 .navbar{
     width:47.5vw;
