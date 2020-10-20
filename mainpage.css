@@ -196,7 +196,7 @@ html, body {
 .scrollbar-custom {
   position: relative;
   overflow-y: scroll;
-  height: 430px;
+  height: 400px;
 }
 
 .scrollbar-dusty-grass::-webkit-scrollbar-track {
