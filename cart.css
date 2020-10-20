@@ -1,0 +1,42 @@
+.navbar{
+    width:47.5vw;
+    height:9vh;
+    background: rgb(231, 184, 27) !important;
+    color:rgb(77, 73, 73) !important;
+    position: absolute;
+}
+
+.fa-arrow-left{
+text-decoration: none;
+background: rgb(231, 184, 27) !important;
+color: aliceblue;
+border: 2px solid aliceblue;
+padding: 10% !important;
+width:8vw;
+height: auto;
+
+
+font-size: 1.5rem;
+}
+
+a{
+    text-decoration: none;
+ 
+    
+}
+
+a:hover{
+    text-decoration: none;
+     color:rgb(77, 73, 73) !important;
+     	transform: scale(1.04);
+    
+}
+
+.message {
+    display: block;
+    padding: 15px 30px;
+    background: #fff289;
+    width: calc(100% + 52px);
+    margin: 0 0 0 -26px;
+    letter-spacing: .5px;
+}

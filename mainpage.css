@@ -210,6 +210,8 @@ html, body {
 	color:rgb(236, 222, 222);
 	margin-left: 2vw;
 	margin-top: 2vh;
+	font-size: 1.7rem;
+	font-weight: 100;
 }
 
 .fa-shopping-bag:hover{
@@ -218,13 +220,21 @@ transform: scale(1.04);
 
 .view-cart{
 text-decoration: none;
-margin-left: 30vw;
+margin-left: 25vw;
 margin-top: 2vh;
 background: rgb(219, 161,0);
 color: aliceblue;
 border: 2px solid aliceblue;
 padding: 1%;
 font-size: 1.7rem;
+}
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+	color: aliceblue;
 }
 
 .view-cart:hover{
