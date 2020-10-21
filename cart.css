@@ -124,13 +124,16 @@ a:hover{
 	font-size: 1.2rem;
 }
 
-.button-a{
+
+
+.a{
     border-radius: 50%;
     background: white;
  
 }
 
 .price{
+  
     display: flex;
     justify-content: space-between;
 	font-size: 1.1rem;
