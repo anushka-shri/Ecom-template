@@ -50,18 +50,20 @@ a:hover{
 
 .container{
 	margin-top:12vh;
-    background: rgb(231, 184, 27) !important;
+    background: rgb(255, 255, 255) !important;
     
     padding:3%;
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
 }
 
 .one{
     	margin-top:12vh;
-    background: rgb(231, 184, 27) !important;
+    background: rgb(223, 222, 222) !important;
     text-align: center;
     padding:3%;
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    border-radius: 10px;
+
 }
 
 
@@ -70,19 +72,19 @@ a:hover{
 .two{
 
 	margin-top:1vh;
-    background: rgb(87, 146, 161) !important;
+    background: rgb(223, 222, 222) !important;
     text-align: center;
     padding:1%;
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
     border-radius: 10px;
 }
 
 .three{
 
     margin-top:1vh;
-    background: rgb(133, 178, 189) !important;
+   background: rgb(223, 222, 222) !important;
     padding:1%;
-    color:rgb(2, 42, 48)!important;
+    color:rgb(0, 168, 8)!important;
     border-radius: 10px;  
     font-size: 1.1rem;
     
@@ -90,7 +92,7 @@ a:hover{
 
 .four{
      margin-top:2vh;
-    background: rgb(133, 178, 189) !important;
+    background: rgb(223, 222, 222) !important;
     padding:1%;
     color:rgb(0, 0, 0)!important;
     border-radius: 10px;  
@@ -111,14 +113,27 @@ a:hover{
 } */
 
 #myNumber{
-    background: rgba(71, 76, 85, 0.822);
-    color:white;
+    
+    background: rgba(71, 76, 85, 0);
+    color:rgb(0, 0, 0);
     text-align: center;
-    width:60px;
-    height: 40px;
+    width:160px;
+   
     border-radius: 20%;
-    margin-left: 18vw;
+    margin-left: 10vw;
 	font-size: 1.2rem;
+}
+
+.button-a{
+    border-radius: 50%;
+    background: white;
+ 
+}
+
+.price{
+    display: flex;
+    justify-content: space-between;
+	font-size: 1.1rem;
 }
 
 .item{
@@ -145,9 +160,7 @@ a:hover{
 	font-size: 1.2rem;
 }
 
-.price{
-	font-size: 1.1rem;
-}
+
 
 .btn:hover{
 	transform: scale(1.05);

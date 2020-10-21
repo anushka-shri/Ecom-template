@@ -38,20 +38,33 @@
             <p class="menu-item">
                 * Dosa Masala Double patty Burger 2pc Combo
             </p>
-            <p class="price">
-                ₹ 138
-                <input type="number" id="myNumber">
+            
+                <div id="myNumber">
+                    <p class="price">
+                        ₹ 138
+                    <input class="button-a" type="button" onclick="decrementValue()" value="- " />
+                    <input  type="text" name="quantity" value="1" maxlength="2" max="10" size="1" id="number" />
+                    <input class="button-a" type="button" onclick="incrementValue()" value="+" />
+                    </p>
+                </div>
+                <!-- <input type="number" id="myNumber"> -->
                 <!-- <button type="button" class="Add btn btn-pill btn-dark">Add Item</button> -->
-            </p>
+            
         </div>
 
         <div class="item">
             <p class="menu-item">
                 * McChicken Double patty Burger 2pc Combo
             </p>
-            <p class="price"> ₹ 215
-            <input type="number" id="myNumber">
-            </p>
+            <div id="myNumber">
+                <p class="price">
+                    ₹ 140
+                    <input type="button" onclick="decrementValue2()" value="-" />
+                    <input type="text" name="quantity" value="1" maxlength="2" max="10" size="1" id="number2" />
+                    <input type="button" onclick="incrementValue2()" value="+" />
+                </p>
+            </div>
+            
         </div>
     </div>
 
@@ -107,6 +120,7 @@
     <!-- Popper.js first, then CoreUI JS -->
     <script src="https://unpkg.com/@popperjs/core@2"></script>
     <script src="https://unpkg.com/@coreui/coreui/dist/js/coreui.min.js"></script>
+    <script src="cart.js"></script>
 </body>
 </div>
 <div class="col-md-3"></div>
